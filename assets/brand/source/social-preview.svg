@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<rect width="1280" height="640" fill="#F3F5FF"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#18233E">
+<text x="80" y="95" font-size="20" letter-spacing="2">AN OPEN-SOURCE AGENT SKILL</text>
+<g transform="translate(52 157) scale(1.0625)" fill="#3159D6"><path d="M36 36H172V64H64V172H36Z"/>
+<path fill-rule="evenodd" d="M84 84H220V220H84ZM112 112V192H192V112Z"/>
+<path d="M138 138H166V166H138Z"/></g>
+<text x="370" y="288" font-size="100" font-weight="700" letter-spacing="-3">Iterative</text>
+<text x="375" y="351" font-size="42">Logo &amp; Brand Design</text>
+<text x="80" y="489" font-size="32" font-weight="700">Explore. Refine. Repeat.</text>
+<path d="M80 535H1200" stroke="#CCD5F1"/>
+<text x="80" y="581" font-size="23">kerbelp / iterative-logo-brand-design</text>
+</g></svg>

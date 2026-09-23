@@ -12,6 +12,8 @@ The repository identity uses the approved **Second draft** mark and the selected
 | --- | --- |
 | README / light header | [header-light.svg](header-light.svg) |
 | Dark header | [header-dark.svg](header-dark.svg) |
+| GitHub social preview | [png/social-preview.png](png/social-preview.png) — 1280 × 640 px, under 1 MB |
+| Social preview vectors | [social-preview.svg](social-preview.svg) — outlined; [source/social-preview.svg](source/social-preview.svg) — editable text |
 | Cobalt mark on a light surface | [mark-primary.svg](mark-primary.svg) |
 | Pale cobalt mark on ink | [mark-dark.svg](mark-dark.svg) |
 | Single-color dark / white | [mark-mono.svg](mark-mono.svg), [mark-white.svg](mark-white.svg) |
@@ -35,6 +37,12 @@ Delivery headers contain outlined lettering and do not require fonts at display 
 - Keep the three mark parts in one color. Preserve the central square and the frame gaps. Avoid stretching, gradients, outlines, and shadows that alter the silhouette or fill the small openings.
 
 The horizontal lockup uses approximately one primary-stroke width or more of separation between the mark and text. The supplied files establish the alignment; preserve it when placing them.
+
+## GitHub social preview
+
+![Repository social preview artwork](png/social-preview.png)
+
+Upload `png/social-preview.png` in the repository's **Settings → General → Social preview → Edit → Upload an image**. Committing the image does not apply this setting. GitHub's [social preview instructions](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview) describe the separate upload step.
 
 ## Palette
 
