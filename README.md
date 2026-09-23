@@ -1,6 +1,9 @@
 # Iterative Logo and Brand Design
 
-![Iterative Logo & Brand Design — cobalt mark and name lockup](assets/brand/header-light.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/header-dark.svg">
+  <img alt="Iterative Logo &amp; Brand Design — cobalt mark and name lockup" src="assets/brand/header-light.svg">
+</picture>
 
 An independent agent skill maintained by [kerbelp](https://github.com/kerbelp) for developing and refining logos and brand identities through exploration, feedback, and practical reproduction tests.
 
