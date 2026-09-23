@@ -2,13 +2,23 @@
 
 ## Current state
 
-- **Selected direction:** B / Second draft, explicitly chosen by Pavel.
-- **Mode:** build the identity around the approved mark. Preserve the overlapping frames and central square.
-- **Approved geometry:** refined primary in `02-refinement/b-primary.svg`.
-- **Supporting variant:** the dedicated 16 px optical version is tested; its usage rule remains part of the proposed handoff.
-- **Open choices:** select among the Round 3 palettes and review the proposed Arial name lockup. Do not reopen the approved primary geometry without a relevant request or demonstrated reproduction problem.
-- **Documentation requirement:** save images of each meaningful stage for the final README and a possible blog post. Preserve prior rounds and distinguish actual screenshots from local renders; see `process-captures.md`.
-- **Next step:** collect the palette/lockup choice, then inspect real applications and complete the handoff.
+- **Selected direction:** B / Second draft, explicitly chosen by Pavel; refined primary geometry approved.
+- **Selected palette:** B / Cobalt & chalk, explicitly chosen by Pavel.
+- **Delivered identity:** approved mark and palette with the shown Arial name lockup, outlined light/dark headers, primary and 16 px optical variants, monochrome assets, and PNG exports.
+- **Repository integration:** the new chalk-backed tile replaces the pencil icon, the metadata uses cobalt as its brand accent, and the README shows the result and process.
+- **Preserved:** all three prior rounds and the original pencil icon. The approved primary geometry has not changed.
+- **Documentation:** process captures and captions are indexed in `process-captures.md` for the README and a possible blog post. No blog publication has been requested.
+- **Verification:** named digital sizes, light/dark exports, outlined lettering, and the local browser preview checked. Installed-host rendering and physical print are untested; Figma canvas access remains unavailable.
+- **Next step:** optional review of the delivered identity or future Figma import when access is restored. No palette selection remains open.
+
+## 2026-09-23 — Cobalt selected and delivered
+
+- **User feedback:** “Lets go with B”. This selects the Cobalt & chalk palette from Round 3, following approval of the primary geometry.
+- **Agent implementation:** retained the shown Arial lockup; converted delivery lettering to vector outlines; kept editable text sources. Prepared primary, optical, light/dark, and monochrome variants and target-size PNGs.
+- **Icon placement:** the active skill tile uses cobalt on a fixed chalk background. Both metadata icon slots retain the primary tile; a separate 16 px optical tile is supplied for known-size usage. The original pencil is archived with Round 1.
+- **Checks:** approved primary paths preserved; optical exports checked at 16 px and primary exports at 24, 32, and 64 px on both surfaces; fonts outlined; local browser preview captured. Details are in `04-delivery/README.md`.
+- **Approval wording:** shape and palette were explicitly selected. The shown typography and documented optical usage rule were carried through as implementation choices; no additional user approval was invented.
+- **Artifacts:** `assets/brand/`, `assets/icon.svg`, `assets/icon-16.svg`, and `04-delivery/`. The README now presents the selected identity and concise process.
 
 ## 2026-09-23 — Color and lockup comparison
 

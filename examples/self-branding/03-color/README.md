@@ -1,6 +1,6 @@
 # Round 3 — Color and name lockup
 
-Status: three proposals, awaiting selection. The refined primary geometry remains approved and unchanged.
+Outcome: Pavel selected **B — Cobalt & chalk**. This page preserves the three proposals as presented; the refined primary geometry remains unchanged. [See the delivered identity](../04-delivery/README.md).
 
 ![Browser screenshot of three color and lockup studies](browser-color-studies.jpg)
 
@@ -16,13 +16,13 @@ All three options use the same mark paths, scale, spacing, and name lockup. Only
 | B — Cobalt & chalk | Precise, confident, digital | Familiar territory for developer tools |
 | C — Pine & mist | Calm, considered, quietly crafted | Less immediate visual energy |
 
-**Agent recommendation:** A. Its warm paper and vermilion give the geometric mark a more approachable character. This is a recommendation, not user approval.
+**Agent recommendation:** A. Its warm paper and vermilion give the geometric mark a more approachable character. Pavel subsequently chose B; the recommendation is preserved as part of the decision history.
 
 ## Proposed typography
 
 The lockup uses **Arial Bold** for “Iterative” and **Arial Regular** for “Logo & Brand Design”. Both font families and styles were verified locally with `fc-match`; Inter was not available and was not silently substituted. The leading word has slightly tightened tracking and a larger size to keep the full project name readable without squeezing it onto one line.
 
-These SVG sources contain live text with Helvetica and generic sans-serif fallbacks. Their lettering may change where Arial is unavailable. No font files are distributed. After the lockup is selected, prepare a portable outlined version alongside the editable source and inspect both before final delivery. Typeface selection remains open.
+These SVG sources contain live text with Helvetica and generic sans-serif fallbacks. Their lettering may change where Arial is unavailable. No font files are distributed. The delivered files now include a portable outlined version alongside these editable sources; both were inspected. The shown Arial treatment was carried through to delivery; portable outlined files are in the brand assets.
 
 ## Color roles and measurements
 
@@ -42,7 +42,7 @@ Relative-luminance contrast ratios computed from the exact sRGB values:
 | B | 14.32:1 | 5.47:1 | 8.69:1 |
 | C | 10.99:1 | 5.86:1 | 8.27:1 |
 
-These values describe the named color pairs, not every possible use of the palette. Live application and small-size color checks will follow selection. [Palette values and measurements](palettes.json) are also available as data.
+These values describe the named color pairs, not every possible use of the palette. The selected palette received application-preview and small-size checks in Round 4. [Palette values and measurements](palettes.json) are also available as data.
 
 ## Editable lockup studies
 
@@ -50,4 +50,4 @@ These values describe the named color pairs, not every possible use of the palet
 - B: [light](cobalt-lockup-light.svg), [dark](cobalt-lockup-dark.svg).
 - C: [light](pine-lockup-light.svg), [dark](pine-lockup-dark.svg).
 
-The header panels are illustrative studies, not installed UI. Both the local render and browser capture were visually inspected for clipping, alignment, and readable hierarchy. The embedded mark paths were checked against the approved primary SVG. No palette has been installed as the active skill icon.
+The header panels are illustrative studies, not installed UI. Both the local render and browser capture were visually inspected for clipping, alignment, and readable hierarchy. The embedded mark paths were checked against the approved primary SVG. Round 4 replaces the active repository icon with the selected cobalt artwork.

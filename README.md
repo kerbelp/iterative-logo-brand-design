@@ -1,5 +1,7 @@
 # Iterative Logo and Brand Design
 
+![Iterative Logo & Brand Design — cobalt mark and name lockup](assets/brand/header-light.svg)
+
 An independent agent skill maintained by [kerbelp](https://github.com/kerbelp) for developing and refining logos and brand identities through exploration, feedback, and practical reproduction tests.
 
 The workflow adapts to exploration, refinement, or production work. It compares concepts fairly, distinguishes concept previews from editable artwork, and checks exported assets at their intended sizes and uses. Approved choices stay intact as the design evolves, with a short decision log for longer projects.
@@ -28,19 +30,30 @@ The skill keeps work proportional to the request: exploration can stop at rough 
 
 ## The skill designs its own logo
 
-We are using this workflow to create the repository's identity and document real decisions along the way. After comparing three directions, Pavel selected **B — Second draft** and approved its refined primary geometry. The second round also checks a dedicated 16 px version. Color, typography, and the final identity are still in progress.
+This repository's identity was developed with the skill. The record below preserves the actual choices and checks, including the options that were not selected.
+
+**Explore:** compare three monochrome ideas. Pavel chose **B — Second draft**, the overlapping-frame mark.
 
 ![Three monochrome logo concepts: Return stroke, Second draft, and Iterative i](examples/self-branding/01-exploration/contact-sheet.png)
 
+**Refine:** balance the gaps and center the inner square. Pavel approved the refined primary. Actual-size tests prompted a separate whole-pixel version for 16 px.
+
 ![Second draft: original concept, refined primary mark, and a dedicated 16 px optical version](examples/self-branding/02-refinement/refinement-board.png)
 
-These images are local renders of editable SVG artwork, not Figma screenshots. [Follow the brief, decisions, pixel checks, and next steps](examples/self-branding/README.md), or [inspect the original SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg). The example now also includes [three color studies and a browser screenshot of their comparison](examples/self-branding/03-color/README.md).
+**Select and apply:** compare [three color treatments](examples/self-branding/03-color/README.md). Pavel chose **B — Cobalt & chalk**, rather than the agent's recommended vermilion. The delivered identity includes light/dark headers, outlined lettering, monochrome marks, and checked icon exports.
+
+![Browser screenshot of the delivered light/dark identity, illustrative skill card, and native-size icon checks](examples/self-branding/04-delivery/browser-delivery.jpg)
+
+The first two boards are local SVG renders. The final image is an actual browser screenshot of a local preview using the delivered assets; its skill card is illustrative. Figma canvas access hit an MCP plan limit, so these are not Figma screenshots.
+
+[Read the complete example and decision log](examples/self-branding/README.md), [browse the process capture archive](examples/self-branding/process-captures.md), or [use the brand assets and size rules](assets/brand/README.md).
 
 ## Files
 
 - [`SKILL.md`](SKILL.md) — the reusable workflow.
 - [`agents/openai.yaml`](agents/openai.yaml) — agent interface metadata and a default prompt.
 - [`assets/icon.svg`](assets/icon.svg) — the skill icon.
+- [`assets/brand/`](assets/brand) — primary and optical marks, outlined headers, editable sources, PNGs, and usage guidance.
 - [`LICENSE`](LICENSE) — MIT license.
 
 ## Inspiration

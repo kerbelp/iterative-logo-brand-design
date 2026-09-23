@@ -1,17 +1,17 @@
 # A logo for the logo-design skill
 
-An ongoing example of using the skill on its own repository. This records the actual exploration and feedback as they happen; it is not a completed case study.
+A worked example of using the skill on its own repository, from three concepts to the delivered Cobalt & chalk identity. The record preserves actual feedback, intermediate artwork, screenshots, and verification limits.
 
 ## Brief
 
 The maintainer asked to design a logo collaboratively, use Figma, and include images of the process in the repository. The identity is for **Iterative Logo & Brand Design**, an independent agent workflow for exploring, refining, and verifying logos.
 
-Working assumptions proposed by the agent, awaiting feedback:
+Initial working assumptions proposed by the agent:
 
 - Audience: people using agents for design, including designers and developers.
 - Personality: thoughtful, approachable, and precise; explore a craft-focused geometric direction first.
 - Uses: a small skill icon and a GitHub README header, with a social preview as a possible later application.
-- Preserve the full project name and its independent attribution. The supplied pencil icon remains in place until a replacement is selected and verified.
+- Preserve the full project name and its independent attribution. The supplied pencil icon was preserved through exploration and archived when the selected replacement was delivered.
 
 Compare concepts on distinctiveness, small-size clarity, and how naturally they suggest iterative design. The concept vocabulary is **stroke, return, draft, frame, repetition, and initial**.
 
@@ -39,7 +39,7 @@ The original had a 12-unit gap above the foreground frame and a 20-unit gap to i
 
 **User decision:** “refined looks good”. The refined primary geometry is approved and will stay fixed during color and typography exploration. The board above preserves the earlier review state rather than rewriting the process history.
 
-Direct scaling softens the primary's edges at 16 px. A dedicated optical variant uses whole-pixel coordinates, 2 px strokes, and a 2 px inner square with 1 px of surrounding negative space. It is intended for exactly 16 px; the primary remains the proposal for 24 px and above. These are candidate usage rules awaiting review, not a finished brand specification.
+Direct scaling softens the primary's edges at 16 px. A dedicated optical variant uses whole-pixel coordinates, 2 px strokes, and a 2 px inner square with 1 px of surrounding negative space. It is intended for exactly 16 px; the primary remains the proposal for 24 px and above. This rule was carried into the delivered digital assets after the final color checks in Round 4.
 
 ![Actual exports and nearest-neighbor enlargements on light and dark backgrounds at 16, 24, 32, and 64 px](02-refinement/pixel-checks.png)
 
@@ -49,7 +49,7 @@ The board pairs each native-size PNG with an enlargement of those same pixels. A
 - [16 px optical SVG](02-refinement/b-micro-16.svg) and [white reversed SVG](02-refinement/b-micro-16-reversed.svg).
 - [Raster exports](02-refinement/exports) and [verification record](02-refinement/verification.md).
 
-The optical version is also rendered at larger sizes for comparison; that does not change its proposed 16 px usage threshold. The existing skill icon has not yet been replaced.
+The optical version is also rendered at larger sizes for comparison; that does not change its proposed 16 px usage threshold. At this stage the original skill icon was still in place; Round 4 replaced it after color selection and final checks.
 
 ## Round 3: color and name lockup
 
@@ -57,24 +57,32 @@ The approved geometry stays fixed while three palettes are compared with the sam
 
 ![Actual browser capture of the three palette studies](03-color/browser-color-studies.jpg)
 
-This screenshot shows the local study page, not Figma or the live repository. [View the full-size board, editable lockups, color values, and contrast measurements](03-color/README.md). The agent recommends A; palette and typography selection are still pending.
+This screenshot shows the local study page, not Figma or the live repository. [View the full-size board, editable lockups, color values, and contrast measurements](03-color/README.md). The agent recommended A, but Pavel chose **B — Cobalt & chalk**. The final implementation keeps the Arial name lockup shown in the comparison.
+
+## Round 4: delivery and application checks
+
+![Browser screenshot of the delivered light/dark identity and icon-size checks](04-delivery/browser-delivery.jpg)
+
+The selected identity is now used in the repository README and skill icon assets. Headers have outlined lettering for font-independent display, with editable text sources retained. The primary and 16 px optical marks also have monochrome versions and PNG exports.
+
+[Get the assets and usage guide](../../assets/brand/README.md), or [read the final checks and limitations](04-delivery/README.md). This screenshot shows a local browser preview; its skill card is illustrative, not an installed-app screenshot.
 
 ## What has actually been checked
 
-- Both rounds were rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
+- The vector comparison boards were rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
 - Round 2 includes actual 16, 24, 32, and 64 px raster exports on white and dark backgrounds, with nearest-neighbor enlargements for inspection. See the verification record for observed softness and limitations.
 - SVG syntax, raster dimensions, and local Markdown image/link targets were checked.
-- B and its refined primary geometry are approved. The optical usage rule, color, typography, real application checks, and final handoff remain unfinished.
-- Round 3 preserves the approved vector paths and compares exact color-pair contrast. Its local render and browser screenshot were inspected. The lockup sources retain live text, with a documented fallback caveat.
+- The refined primary geometry and Cobalt & chalk palette are selected. Round 4 supplies the digital handoff and documents the remaining limits.
+- Round 3 preserves the approved vector paths and compares exact color-pair contrast. Its local render and browser screenshot were inspected. The editable lockup sources retain live text; the delivered headers use outlines to remove display-time font dependency.
 
 ## Figma status
 
-A [Figma process file](https://www.figma.com/design/jIboEmJ2p9sDszWPKTFtDo) was created on 23 September 2026. The next MCP call hit the account's Starter-plan tool limit before any artwork could be placed, so that file is currently empty. The images above are local SVG renders and a browser capture of the color-study page, not Figma screenshots. File access depends on the owner's Figma sharing settings.
+A [Figma process file](https://www.figma.com/design/jIboEmJ2p9sDszWPKTFtDo) was created on 23 September 2026. The next MCP call hit the account's Starter-plan tool limit before any artwork could be placed, so that file is currently empty. The images above are local SVG renders and browser captures of the study and delivery pages, not Figma screenshots. File access depends on the owner's Figma sharing settings.
 
-When Figma access is available, import both rounds of SVGs while preserving their history. Add genuine Figma captures to this example as that work happens.
+When Figma access is available, import the archived rounds and delivered SVGs while preserving their history. Add genuine Figma captures to this example as that work happens.
 
-## Next decision
+## Outcome
 
-Choose a Round 3 palette and review the name lockup, then check the selected identity in the README and skill-icon context.
+The repository has a selected identity, usable digital assets, and a documented process. A Figma import, installed-agent check, print proof, or blog post can extend the example later; none is represented as already completed.
 
 See [the decision log](design-decisions.md) for the current state and [the capture index](process-captures.md) for images and captions being preserved for the final README and a possible blog post.

@@ -1,6 +1,6 @@
 # Round 2 verification
 
-Status: the refined primary geometry is approved. The optical usage rule and complete identity remain unfinished.
+Status at this stage: the refined primary geometry is approved. The optical usage rule was later carried into the delivered identity after Round 4 color checks.
 
 ## Method
 

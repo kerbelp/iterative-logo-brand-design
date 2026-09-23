@@ -1,0 +1,20 @@
+{
+  "name": "Cobalt & chalk",
+  "colors": {
+    "chalk": "#F3F5FF",
+    "ink": "#18233E",
+    "cobalt": "#3159D6",
+    "on_dark": "#AFBFFF"
+  },
+  "type": {
+    "family": "Arial",
+    "heading_style": "Bold",
+    "descriptor_style": "Regular"
+  },
+  "icon_micro_size_px": 16,
+  "primary_tested_sizes_px": [
+    24,
+    32,
+    64
+  ]
+}

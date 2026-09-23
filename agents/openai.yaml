@@ -5,6 +5,7 @@ interface:
     exploration, selection, refinement, and real-world size tests.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
+  brand_color: "#3159D6"
 policy:
   products:
   - chatgpt
