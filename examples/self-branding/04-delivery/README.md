@@ -33,6 +33,7 @@ Captured from the live GitHub README on 23 September 2026, after [the theme-awar
 | Portable header sources | Delivered header SVGs contain no live text, embedded raster images, or external font dependencies |
 | Local browser preview | Light/dark headers, the illustrative skill card, and native-size exports render without clipping in the captured viewport |
 | Live GitHub README | Published header loads and renders correctly; the dark browser theme selects the dark SVG |
+| GitHub social preview | 1280 × 640 PNG uploaded through the native browser file picker; GitHub API confirms the custom image is active; [settings screenshot](github-social-preview.jpg) retained |
 | Asset integrity | SVG XML and local links checked; PNG dimensions match filenames; metadata references resolve |
 
 The 16 px tests use optical geometry; all larger icon exports use the primary. Pixel enlargements are only for inspection. Their native PNGs remain alongside this document.

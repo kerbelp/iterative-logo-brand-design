@@ -14,6 +14,7 @@ Preserve the visual record for the final repository README and a possible blog p
 | 04 — Delivery | [Browser application preview](04-delivery/browser-delivery.jpg) | Actual browser capture of [the local delivery page](04-delivery/index.html), using delivered assets | Selected cobalt identity on light/dark backgrounds, an illustrative skill card, and native-size exports. |
 | 04 — Color size checks | [Pixel-check board](04-delivery/color-pixel-checks.png) | Local board containing actual exported PNG pixels and nearest-neighbor enlargements | Confirms separate frames and center detail at the named sizes and color pairs. |
 | 04 — Published README | [Live GitHub capture](04-delivery/github-readme.jpg) | Actual browser screenshot of the public repository's README after commit `a56e9eb` | Confirms the delivered identity in its real repository context and the dark-theme header selection. |
+| 04 — Social preview | [Saved GitHub preview](04-delivery/github-social-preview.jpg) | Actual browser screenshot of repository settings after uploading the 1280 × 640 PNG | Cobalt identity applied to link-sharing artwork; GitHub API confirmed `usesCustomOpenGraphImage: true`. |
 
 Round 1 and Round 2 images are local renders. Rounds 3 and 4 include actual browser screenshots as well as local renders; none is a Figma screenshot. Labels on preserved boards describe their state when created; later approvals are recorded alongside them in the case study.
 
