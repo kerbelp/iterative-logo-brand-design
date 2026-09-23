@@ -1,0 +1,14 @@
+interface:
+  display_name: Iterative Logo and Brand Design
+  short_description: Explore, refine, and deliver a complete logo system
+  default_prompt: Use this skill to develop a logo and brand identity through concept
+    exploration, selection, refinement, and real-world size tests.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
