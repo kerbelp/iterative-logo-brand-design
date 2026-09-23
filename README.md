@@ -28,7 +28,7 @@ The skill keeps work proportional to the request: exploration can stop at rough 
 
 ## The skill designs its own logo
 
-We are using this workflow to create the repository's identity and document real decisions along the way. After comparing three directions, Pavel selected **B — Second draft**. The second round refines its geometry and checks a dedicated 16 px version. The identity is still in progress.
+We are using this workflow to create the repository's identity and document real decisions along the way. After comparing three directions, Pavel selected **B — Second draft** and approved its refined primary geometry. The second round also checks a dedicated 16 px version. Color, typography, and the final identity are still in progress.
 
 ![Three monochrome logo concepts: Return stroke, Second draft, and Iterative i](examples/self-branding/01-exploration/contact-sheet.png)
 

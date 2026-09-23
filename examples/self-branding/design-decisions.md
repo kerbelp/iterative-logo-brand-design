@@ -3,10 +3,20 @@
 ## Current state
 
 - **Selected direction:** B / Second draft, explicitly chosen by Pavel.
-- **Mode:** refinement. Preserve the overlapping frames and central square.
-- **Current proposal:** balanced primary geometry and a dedicated 16 px optical variant in `02-refinement/`.
-- **Awaiting review:** refined geometry and optical variant. Color and typography remain open.
-- **Next step:** review this refinement, then explore color and the name lockup.
+- **Mode:** build the identity around the approved mark. Preserve the overlapping frames and central square.
+- **Approved geometry:** refined primary in `02-refinement/b-primary.svg`.
+- **Supporting variant:** the dedicated 16 px optical version is tested; its usage rule remains part of the proposed handoff.
+- **Open choices:** color, typography, and name lockup. Do not reopen the approved primary geometry without a relevant request or demonstrated reproduction problem.
+- **Documentation requirement:** save images of each meaningful stage for the final README and a possible blog post. Preserve prior rounds and distinguish actual screenshots from local renders; see `process-captures.md`.
+- **Next step:** explore color and the name lockup, then inspect real applications and complete the handoff.
+
+## 2026-09-23 — Refined mark approved; process documentation requested
+
+- **User feedback:** “refined looks good, remember to take screenshots of the process for the final README.md (and maybe blog post)”.
+- **Decision:** the refined primary mark is approved. Keep its geometry fixed through color and typography exploration.
+- **Documentation:** retain the existing concept, refinement, and pixel-check boards. Save new captures at meaningful stages with captions, source files, approval state, and the decision they illustrate.
+- **Publication scope:** keep the repository example current and assemble the final README when the identity is complete. A blog post is a possible later deliverable; no blog publication has been requested.
+- **Capture status:** the existing images are local SVG/PNG renders. Figma MCP was blocked before canvas work began, so no Figma screenshots exist yet. Capture genuine application views when available and label their origin accurately.
 
 ## 2026-09-23 — B selected and refined
 

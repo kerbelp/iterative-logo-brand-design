@@ -37,6 +37,8 @@ All three are original editable SVG sketches shown on equal canvases in the same
 
 The original had a 12-unit gap above the foreground frame and a 20-unit gap to its left. The refined primary uses 20-unit gaps in both directions, consistent 28-unit strokes, and a centered inner square on a 256-unit canvas. These changes keep the selected idea while making its construction more consistent.
 
+**User decision:** “refined looks good”. The refined primary geometry is approved and will stay fixed during color and typography exploration. The board above preserves the earlier review state rather than rewriting the process history.
+
 Direct scaling softens the primary's edges at 16 px. A dedicated optical variant uses whole-pixel coordinates, 2 px strokes, and a 2 px inner square with 1 px of surrounding negative space. It is intended for exactly 16 px; the primary remains the proposal for 24 px and above. These are candidate usage rules awaiting review, not a finished brand specification.
 
 ![Actual exports and nearest-neighbor enlargements on light and dark backgrounds at 16, 24, 32, and 64 px](02-refinement/pixel-checks.png)
@@ -54,7 +56,7 @@ The optical version is also rendered at larger sizes for comparison; that does n
 - Both rounds were rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
 - Round 2 includes actual 16, 24, 32, and 64 px raster exports on white and dark backgrounds, with nearest-neighbor enlargements for inspection. See the verification record for observed softness and limitations.
 - SVG syntax, raster dimensions, and local Markdown image/link targets were checked.
-- B is selected as the direction. The refined geometry and optical version await user review; color, typography, real application checks, and final handoff remain unfinished.
+- B and its refined primary geometry are approved. The optical usage rule, color, typography, real application checks, and final handoff remain unfinished.
 
 ## Figma status
 
@@ -64,6 +66,6 @@ When Figma access is available, import both rounds of SVGs while preserving thei
 
 ## Next decision
 
-Review the refined B geometry and the 16 px optical version. Then explore a restrained color palette and name lockup, and check them in the README and skill-icon context.
+Explore a restrained color palette and name lockup around the approved geometry, then check them in the README and skill-icon context.
 
-See [the decision log](design-decisions.md) for the current state.
+See [the decision log](design-decisions.md) for the current state and [the capture index](process-captures.md) for images and captions being preserved for the final README and a possible blog post.

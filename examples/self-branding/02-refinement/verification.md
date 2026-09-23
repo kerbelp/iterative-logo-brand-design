@@ -1,6 +1,6 @@
 # Round 2 verification
 
-Status: proposed geometry, not a final approved identity.
+Status: the refined primary geometry is approved. The optical usage rule and complete identity remain unfinished.
 
 ## Method
 
@@ -30,4 +30,4 @@ The comparison board `pixel-checks.svg` intentionally embeds the actual raster e
 
 ## Limits and remaining work
 
-The checks describe this renderer's output on the two named backgrounds. They do not establish identical rasterization in every browser or prove physical print quality. A brand palette, final typography, name lockup, real application placement, physical reproduction, and user approval of the refined artwork remain pending.
+The checks describe this renderer's output on the two named backgrounds. They do not establish identical rasterization in every browser or prove physical print quality. A brand palette, final typography, name lockup, real application placement, physical reproduction, and approval of the complete handoff remain pending.
