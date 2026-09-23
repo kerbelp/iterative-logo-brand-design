@@ -8,7 +8,7 @@
 - **Repository integration:** the new chalk-backed tile replaces the pencil icon, the metadata uses cobalt as its brand accent, and the README shows the result and process.
 - **Preserved:** all three prior rounds and the original pencil icon. The approved primary geometry has not changed.
 - **Documentation:** process captures and captions are indexed in `process-captures.md` for the README and a possible blog post. No blog publication has been requested.
-- **Verification:** named digital sizes, light/dark exports, outlined lettering, and the local browser preview checked. Installed-host rendering and physical print are untested; Figma canvas access remains unavailable.
+- **Verification:** named digital sizes, light/dark exports, outlined lettering, the local browser preview, and the published GitHub README checked. Installed-host rendering and physical print are untested; Figma canvas access remains unavailable.
 - **Next step:** optional review of the delivered identity or future Figma import when access is restored. No palette selection remains open.
 
 ## 2026-09-23 — Cobalt selected and delivered
@@ -19,6 +19,7 @@
 - **Checks:** approved primary paths preserved; optical exports checked at 16 px and primary exports at 24, 32, and 64 px on both surfaces; fonts outlined; local browser preview captured. Details are in `04-delivery/README.md`.
 - **Approval wording:** shape and palette were explicitly selected. The shown typography and documented optical usage rule were carried through as implementation choices; no additional user approval was invented.
 - **Artifacts:** `assets/brand/`, `assets/icon.svg`, `assets/icon-16.svg`, and `04-delivery/`. The README now presents the selected identity and concise process.
+- **Publication capture:** `04-delivery/github-readme.jpg` shows the live README after commit `a56e9eb`. Its theme-aware picture loads the outlined dark header in a dark browser theme; the light header is the default.
 
 ## 2026-09-23 — Color and lockup comparison
 

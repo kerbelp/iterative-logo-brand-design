@@ -13,6 +13,7 @@ Preserve the visual record for the final repository README and a possible blog p
 | 03 — Color source render | [Full-resolution board](03-color/color-studies.png) | Local `rsvg-convert` render of the same SVG source | High-resolution companion for inspecting the colors and name lockup; not an application screenshot. |
 | 04 — Delivery | [Browser application preview](04-delivery/browser-delivery.jpg) | Actual browser capture of [the local delivery page](04-delivery/index.html), using delivered assets | Selected cobalt identity on light/dark backgrounds, an illustrative skill card, and native-size exports. |
 | 04 — Color size checks | [Pixel-check board](04-delivery/color-pixel-checks.png) | Local board containing actual exported PNG pixels and nearest-neighbor enlargements | Confirms separate frames and center detail at the named sizes and color pairs. |
+| 04 — Published README | [Live GitHub capture](04-delivery/github-readme.jpg) | Actual browser screenshot of the public repository's README after commit `a56e9eb` | Confirms the delivered identity in its real repository context and the dark-theme header selection. |
 
 Round 1 and Round 2 images are local renders. Rounds 3 and 4 include actual browser screenshots as well as local renders; none is a Figma screenshot. Labels on preserved boards describe their state when created; later approvals are recorded alongside them in the case study.
 
@@ -21,7 +22,7 @@ Round 1 and Round 2 images are local renders. Rounds 3 and 4 include actual brow
 - Color and typography: retain the saved Round 3 comparison, then record the chosen option and the user's feedback. Save any further revisions as a new stage.
 - Applications: capture the mark in the actual README preview and skill-icon context where available. Distinguish real application screenshots from illustrative mockups.
 - Figma: when MCP access permits canvas work, import the preserved stages and capture the real canvas. Do not imply that the earlier local stages took place there.
-- Final handoff: the selected identity, light/dark application preview, and native-size checks are saved in Round 4. Add the live README capture after publishing.
+- Final handoff: the selected identity, light/dark application preview, native-size checks, and live GitHub README capture are saved in Round 4. Preserve these when adding future revisions.
 
 For every image, retain its source, date, capture method, short caption, approval state, and the decision or finding it demonstrates. Store new assets under the relevant numbered stage. Check captures for clipping, legibility, and unintended private account information before committing them publicly.
 

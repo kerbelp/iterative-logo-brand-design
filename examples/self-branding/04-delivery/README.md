@@ -6,6 +6,12 @@
 
 This is an actual browser screenshot of [the local delivery page](index.html), captured on 23 September 2026. It displays the delivered SVGs, PNG exports, and an illustrative skill card using the repository icon and interface text. It is not a screenshot of an installed agent interface or Figma.
 
+## Published README
+
+![Actual screenshot of the published GitHub README with the dark identity header](github-readme.jpg)
+
+Captured from the live GitHub README on 23 September 2026, after [the theme-aware header update](https://github.com/kerbelp/iterative-logo-brand-design/commit/a56e9eb929d8d0549eaa510f0b705a3ad9d7fd02). The browser loaded `header-dark.svg` successfully at its intrinsic 960 × 280 size; the page scales it to the available width. The default image is the light header, and a picture source selects the dark version when the browser requests a dark color scheme.
+
 ## Delivered
 
 - [Brand assets and usage guide](../../../assets/brand/README.md): primary and 16 px optical vectors in color, dark-surface, dark-ink, and white forms.
@@ -26,6 +32,7 @@ This is an actual browser screenshot of [the local delivery page](index.html), c
 | Outlined vs live-text headers | Same composition on visual inspection; normalized pixel RMSE below 0.001 for each theme after Cairo conversion |
 | Portable header sources | Delivered header SVGs contain no live text, embedded raster images, or external font dependencies |
 | Local browser preview | Light/dark headers, the illustrative skill card, and native-size exports render without clipping in the captured viewport |
+| Live GitHub README | Published header loads and renders correctly; the dark browser theme selects the dark SVG |
 | Asset integrity | SVG XML and local links checked; PNG dimensions match filenames; metadata references resolve |
 
 The 16 px tests use optical geometry; all larger icon exports use the primary. Pixel enlargements are only for inspection. Their native PNGs remain alongside this document.
