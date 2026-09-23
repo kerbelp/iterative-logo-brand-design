@@ -26,6 +26,14 @@ For a focused revision, try:
 
 The skill keeps work proportional to the request: exploration can stop at rough concepts, a small edit stays focused, and a production handoff records completed checks and unresolved issues.
 
+## The skill designs its own logo
+
+We are using this workflow to create the repository's identity and document real decisions along the way. This is a work in progress: the first round explores three directions, and none has been selected or approved as the final logo.
+
+![Three monochrome logo concepts: Return stroke, Second draft, and Iterative i](examples/self-branding/01-exploration/contact-sheet.png)
+
+This image is a local render of editable SVG sketches, not a Figma screenshot. [Follow the brief, concept tradeoffs, and next steps](examples/self-branding/README.md), or [inspect the SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg).
+
 ## Files
 
 - [`SKILL.md`](SKILL.md) — the reusable workflow.

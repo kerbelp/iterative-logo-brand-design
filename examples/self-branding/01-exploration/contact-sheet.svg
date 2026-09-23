@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860">
+<rect width="1440" height="860" fill="#f7f7f5"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202020">
+<text x="64" y="64" font-size="14" letter-spacing="2">ITERATIVE LOGO &amp; BRAND DESIGN / WORKING STUDY 01</text>
+<text x="64" y="131" font-size="48" font-weight="700" letter-spacing="-1.7">A mark for making better marks.</text>
+<text x="64" y="177" font-size="20" fill="#62625e">Three starting points. Same ink, same canvas. Choose the idea before refining the details.</text>
+<path d="M64 210H1376" stroke="#cdcdc8"/>
+
+<rect x="64" y="246" width="416" height="350" rx="2" fill="#ffffff"/>
+<text x="88" y="283" font-size="14" fill="#777773">A / CONCEPT</text>
+<g transform="translate(144 309)" fill="#202020"><path d="M116 46H90C54 46 28 72 28 108V154C28 190 54 216 90 216H154C190 216 216 190 216 154V128H186V154C186 173 173 186 154 186H90C71 186 58 173 58 154V108C58 89 71 76 90 76H116Z"/>
+<path fill-rule="evenodd" d="M133 89L187 35C194 28 204 28 211 35L225 49C232 56 232 66 225 73L171 127L123 137ZM148 99L139 120L160 111Z"/></g>
+<text x="64" y="640" font-size="27" font-weight="700">Return stroke</text>
+<text x="64" y="675" font-size="17">A pencil reconnects with its own stroke.</text>
+<text x="64" y="709" font-size="16" fill="#62625e">Most direct link to iteration and craft.</text>
+<text x="64" y="738" font-size="16" fill="#62625e">Risk: may read as an edit / refresh icon.</text>
+<rect x="512" y="246" width="416" height="350" rx="2" fill="#ffffff"/>
+<text x="536" y="283" font-size="14" fill="#777773">B / CONCEPT</text>
+<g transform="translate(592 309)" fill="#202020"><path d="M34 46H166V74H62V178H34Z"/>
+<path d="M82 86H214V218H82ZM110 114V190H186V114Z" fill-rule="evenodd"/>
+<path d="M132 139H161V168H132Z"/></g>
+<text x="512" y="640" font-size="27" font-weight="700">Second draft</text>
+<text x="512" y="675" font-size="17">Successive frames resolve into one mark.</text>
+<text x="512" y="709" font-size="16" fill="#62625e">Strong modular shape and clear progression.</text>
+<text x="512" y="738" font-size="16" fill="#62625e">Risk: may read as a generic layers tool.</text>
+<rect x="960" y="246" width="416" height="350" rx="2" fill="#ffffff"/>
+<text x="984" y="283" font-size="14" fill="#777773">C / CONCEPT</text>
+<g transform="translate(1040 309)" fill="#202020"><path d="M97 34H161V90H97Z"/>
+<path d="M59 112H151V176C151 188 157 194 168 194H195V224H159C133 224 113 208 113 181V144H59Z"/>
+<path d="M168 49H184V90H168Z"/></g>
+<text x="960" y="640" font-size="27" font-weight="700">Iterative i</text>
+<text x="960" y="675" font-size="17">A repeated dot and a turning lowercase i.</text>
+<text x="960" y="709" font-size="16" fill="#62625e">A compact initial with a distinct silhouette.</text>
+<text x="960" y="738" font-size="16" fill="#62625e">Risk: the bent stem may read as a t.</text>
+<path d="M64 778H1376" stroke="#cdcdc8"/>
+<text x="64" y="817" font-size="14" fill="#62625e">EXPLORATION ONLY · No direction selected · Small-size verification follows selection</text>
+<text x="1376" y="817" text-anchor="end" font-size="14" fill="#62625e">kerbelp / 23 Sep 2026</text>
+</g></svg>
