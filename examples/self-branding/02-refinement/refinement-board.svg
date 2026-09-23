@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="860" viewBox="0 0 1440 860"><rect width="1440" height="860" fill="#f7f7f5"/><g font-family="Arial, Helvetica, sans-serif" fill="#202020">
+<text x="64" y="64" font-size="14" letter-spacing="2">ITERATIVE LOGO &amp; BRAND DESIGN / REFINEMENT 02</text>
+<text x="64" y="131" font-size="48" font-weight="700" letter-spacing="-1.7">Second draft. A clearer construction.</text>
+<text x="64" y="177" font-size="20" fill="#62625e">Selected direction: B. Keep the idea; balance the gaps and make a version for 16 pixels.</text>
+<path d="M64 210H1376" stroke="#cdcdc8"/>
+<rect x="64" y="246" width="416" height="350" fill="white"/>
+<text x="88" y="283" font-size="14" fill="#777773">B / 01</text>
+<g transform="translate(144 309) scale(1)" fill="#202020"><path d="M34 46H166V74H62V178H34Z"/>
+<path d="M82 86H214V218H82ZM110 114V190H186V114Z" fill-rule="evenodd"/>
+<path d="M132 139H161V168H132Z"/></g>
+<text x="64" y="640" font-size="27" font-weight="700">Original concept</text>
+<text x="64" y="679" font-size="17" fill="#62625e">Unequal gaps: 12 and 20 units.</text>
+<text x="64" y="711" font-size="17" fill="#62625e">The inner square is slightly off-center.</text>
+<rect x="512" y="246" width="416" height="350" fill="white"/>
+<text x="536" y="283" font-size="14" fill="#777773">B / 02</text>
+<g transform="translate(592 309) scale(1)" fill="#202020"><path d="M36 36H172V64H64V172H36Z"/>
+<path fill-rule="evenodd" d="M84 84H220V220H84ZM112 112V192H192V112Z"/>
+<path d="M138 138H166V166H138Z"/></g>
+<text x="512" y="640" font-size="27" font-weight="700">Refined primary</text>
+<text x="512" y="679" font-size="17" fill="#62625e">Equal 20-unit gaps; 28-unit strokes.</text>
+<text x="512" y="711" font-size="17" fill="#62625e">The center square and frame now align.</text>
+<rect x="960" y="246" width="416" height="350" fill="white"/>
+<text x="984" y="283" font-size="14" fill="#777773">B / 03</text>
+<g transform="translate(1040 309) scale(16)" fill="#202020"><path d="M2 2H10V4H4V10H2Z"/>
+<path fill-rule="evenodd" d="M6 6H14V14H6ZM8 8V12H12V8Z"/>
+<path d="M9 9H11V11H9Z"/></g>
+<text x="960" y="640" font-size="27" font-weight="700">16 px optical version</text>
+<text x="960" y="679" font-size="17" fill="#62625e">Whole-pixel edges at exactly 16 px.</text>
+<text x="960" y="711" font-size="17" fill="#62625e">Same three parts; wider relative gaps.</text>
+<path d="M64 778H1376" stroke="#cdcdc8"/><text x="64" y="817" font-size="14" fill="#62625e">PROPOSED REFINEMENT · Direction selected by Pavel · Geometry and optical version awaiting review</text><text x="1376" y="817" text-anchor="end" font-size="14" fill="#62625e">kerbelp / 23 Sep 2026</text></g></svg>

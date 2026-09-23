@@ -27,22 +27,43 @@ All three are original editable SVG sketches shown on equal canvases in the same
 | [B — Second draft](01-exploration/b-second-draft.svg) | Offset frames with a resolved center | Simple modular geometry offers a useful basis for an identity | Could read as a layers tool; spacing needs optical refinement |
 | [C — Iterative i](01-exploration/c-iterative-i.svg) | An initial with a repeated dot and turning stem | Offers a compact typographic direction | The stem may read as a t, and the repeated dot may disappear at small sizes |
 
-**Agent recommendation:** explore B first for its modular construction and potential to extend into a visual system. This is a recommendation, not a user selection. A is the most immediately literal option; C needs more work on letter recognition.
+**Initial agent recommendation:** explore B first for its modular construction and potential to extend into a visual system. A is the most immediately literal option; C needs more work on letter recognition.
+
+**User decision:** “lets go with B”. The following round preserves the overlapping-frame concept.
+
+## Round 2: refine Second draft
+
+![Original, balanced primary geometry, and a 16 px optical variant](02-refinement/refinement-board.png)
+
+The original had a 12-unit gap above the foreground frame and a 20-unit gap to its left. The refined primary uses 20-unit gaps in both directions, consistent 28-unit strokes, and a centered inner square on a 256-unit canvas. These changes keep the selected idea while making its construction more consistent.
+
+Direct scaling softens the primary's edges at 16 px. A dedicated optical variant uses whole-pixel coordinates, 2 px strokes, and a 2 px inner square with 1 px of surrounding negative space. It is intended for exactly 16 px; the primary remains the proposal for 24 px and above. These are candidate usage rules awaiting review, not a finished brand specification.
+
+![Actual exports and nearest-neighbor enlargements on light and dark backgrounds at 16, 24, 32, and 64 px](02-refinement/pixel-checks.png)
+
+The board pairs each native-size PNG with an enlargement of those same pixels. At smaller display widths the page may scale the whole board; open the individual PNGs to inspect their native dimensions. Enlargements use integer scale factors, so the 24 px enlargement is 120 px rather than 128 px.
+
+- [Refined primary SVG](02-refinement/b-primary.svg) and [white reversed SVG](02-refinement/b-primary-reversed.svg).
+- [16 px optical SVG](02-refinement/b-micro-16.svg) and [white reversed SVG](02-refinement/b-micro-16-reversed.svg).
+- [Raster exports](02-refinement/exports) and [verification record](02-refinement/verification.md).
+
+The optical version is also rendered at larger sizes for comparison; that does not change its proposed 16 px usage threshold. The existing skill icon has not yet been replaced.
 
 ## What has actually been checked
 
-- The comparison board was rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
-- SVG syntax and local Markdown image/link targets were checked.
-- No concept has been approved. Actual 16, 24, 32, and 64 px tests, reverse versions, typography selection, and final export verification are still pending.
+- Both rounds were rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
+- Round 2 includes actual 16, 24, 32, and 64 px raster exports on white and dark backgrounds, with nearest-neighbor enlargements for inspection. See the verification record for observed softness and limitations.
+- SVG syntax, raster dimensions, and local Markdown image/link targets were checked.
+- B is selected as the direction. The refined geometry and optical version await user review; color, typography, real application checks, and final handoff remain unfinished.
 
 ## Figma status
 
 A [Figma process file](https://www.figma.com/design/jIboEmJ2p9sDszWPKTFtDo) was created on 23 September 2026. The next MCP call hit the account's Starter-plan tool limit before any artwork could be placed, so that file is currently empty. The images above are local SVG renders, not Figma screenshots. File access depends on the owner's Figma sharing settings.
 
-When Figma access is available, import the concept SVGs and preserve this first round before refining the selected direction. Add genuine Figma captures to this example as that work happens.
+When Figma access is available, import both rounds of SVGs while preserving their history. Add genuine Figma captures to this example as that work happens.
 
 ## Next decision
 
-The maintainer can select A, B, or C, combine specific elements, or request a different direction. After selection, refine the geometry, perform actual small-size checks, explore color and a name lockup, and record feedback alongside the next comparison.
+Review the refined B geometry and the 16 px optical version. Then explore a restrained color palette and name lockup, and check them in the README and skill-icon context.
 
 See [the decision log](design-decisions.md) for the current state.

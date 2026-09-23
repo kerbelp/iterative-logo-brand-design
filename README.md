@@ -28,11 +28,13 @@ The skill keeps work proportional to the request: exploration can stop at rough 
 
 ## The skill designs its own logo
 
-We are using this workflow to create the repository's identity and document real decisions along the way. This is a work in progress: the first round explores three directions, and none has been selected or approved as the final logo.
+We are using this workflow to create the repository's identity and document real decisions along the way. After comparing three directions, Pavel selected **B — Second draft**. The second round refines its geometry and checks a dedicated 16 px version. The identity is still in progress.
 
 ![Three monochrome logo concepts: Return stroke, Second draft, and Iterative i](examples/self-branding/01-exploration/contact-sheet.png)
 
-This image is a local render of editable SVG sketches, not a Figma screenshot. [Follow the brief, concept tradeoffs, and next steps](examples/self-branding/README.md), or [inspect the SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg).
+![Second draft: original concept, refined primary mark, and a dedicated 16 px optical version](examples/self-branding/02-refinement/refinement-board.png)
+
+These images are local renders of editable SVG artwork, not Figma screenshots. [Follow the brief, decisions, pixel checks, and next steps](examples/self-branding/README.md), or [inspect the original SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg).
 
 ## Files
 
