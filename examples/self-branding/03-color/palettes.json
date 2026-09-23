@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A",
+    "slug": "vermilion",
+    "name": "Vermilion & paper",
+    "bg": "#F6F1E7",
+    "ink": "#252820",
+    "accent": "#BA442D",
+    "dark": "#252820",
+    "reverse": "#FFAA8F",
+    "feel": "Warm, expressive, workshop-like.",
+    "tradeoff": "Most energetic; needs restrained use.",
+    "contrast": {
+      "ink_on_paper": 13.3,
+      "accent_on_paper": 4.72,
+      "paper_on_dark": 13.3,
+      "reverse_accent_on_dark": 8.12
+    }
+  },
+  {
+    "id": "B",
+    "slug": "cobalt",
+    "name": "Cobalt & chalk",
+    "bg": "#F3F5FF",
+    "ink": "#18233E",
+    "accent": "#3159D6",
+    "dark": "#18233E",
+    "reverse": "#AFBFFF",
+    "feel": "Precise, confident, digital.",
+    "tradeoff": "Familiar territory for developer tools.",
+    "contrast": {
+      "ink_on_paper": 14.32,
+      "accent_on_paper": 5.47,
+      "paper_on_dark": 14.32,
+      "reverse_accent_on_dark": 8.69
+    }
+  },
+  {
+    "id": "C",
+    "slug": "pine",
+    "name": "Pine & mist",
+    "bg": "#EEF3E7",
+    "ink": "#22392E",
+    "accent": "#38664C",
+    "dark": "#22392E",
+    "reverse": "#B7DDB1",
+    "feel": "Calm, considered, quietly crafted.",
+    "tradeoff": "Less immediate visual energy.",
+    "contrast": {
+      "ink_on_paper": 10.99,
+      "accent_on_paper": 5.86,
+      "paper_on_dark": 10.99,
+      "reverse_accent_on_dark": 8.27
+    }
+  }
+]

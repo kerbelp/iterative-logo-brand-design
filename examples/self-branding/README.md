@@ -51,21 +51,30 @@ The board pairs each native-size PNG with an enlargement of those same pixels. A
 
 The optical version is also rendered at larger sizes for comparison; that does not change its proposed 16 px usage threshold. The existing skill icon has not yet been replaced.
 
+## Round 3: color and name lockup
+
+The approved geometry stays fixed while three palettes are compared with the same two-line name lockup. The options are warm vermilion, precise cobalt, and quiet pine. Arial Bold and Regular were verified locally for the proposed lettering.
+
+![Actual browser capture of the three palette studies](03-color/browser-color-studies.jpg)
+
+This screenshot shows the local study page, not Figma or the live repository. [View the full-size board, editable lockups, color values, and contrast measurements](03-color/README.md). The agent recommends A; palette and typography selection are still pending.
+
 ## What has actually been checked
 
 - Both rounds were rendered locally with `rsvg-convert` and visually inspected for spacing, legibility, and clipping.
 - Round 2 includes actual 16, 24, 32, and 64 px raster exports on white and dark backgrounds, with nearest-neighbor enlargements for inspection. See the verification record for observed softness and limitations.
 - SVG syntax, raster dimensions, and local Markdown image/link targets were checked.
 - B and its refined primary geometry are approved. The optical usage rule, color, typography, real application checks, and final handoff remain unfinished.
+- Round 3 preserves the approved vector paths and compares exact color-pair contrast. Its local render and browser screenshot were inspected. The lockup sources retain live text, with a documented fallback caveat.
 
 ## Figma status
 
-A [Figma process file](https://www.figma.com/design/jIboEmJ2p9sDszWPKTFtDo) was created on 23 September 2026. The next MCP call hit the account's Starter-plan tool limit before any artwork could be placed, so that file is currently empty. The images above are local SVG renders, not Figma screenshots. File access depends on the owner's Figma sharing settings.
+A [Figma process file](https://www.figma.com/design/jIboEmJ2p9sDszWPKTFtDo) was created on 23 September 2026. The next MCP call hit the account's Starter-plan tool limit before any artwork could be placed, so that file is currently empty. The images above are local SVG renders and a browser capture of the color-study page, not Figma screenshots. File access depends on the owner's Figma sharing settings.
 
 When Figma access is available, import both rounds of SVGs while preserving their history. Add genuine Figma captures to this example as that work happens.
 
 ## Next decision
 
-Explore a restrained color palette and name lockup around the approved geometry, then check them in the README and skill-icon context.
+Choose a Round 3 palette and review the name lockup, then check the selected identity in the README and skill-icon context.
 
 See [the decision log](design-decisions.md) for the current state and [the capture index](process-captures.md) for images and captions being preserved for the final README and a possible blog post.

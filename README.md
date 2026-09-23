@@ -34,7 +34,7 @@ We are using this workflow to create the repository's identity and document real
 
 ![Second draft: original concept, refined primary mark, and a dedicated 16 px optical version](examples/self-branding/02-refinement/refinement-board.png)
 
-These images are local renders of editable SVG artwork, not Figma screenshots. [Follow the brief, decisions, pixel checks, and next steps](examples/self-branding/README.md), or [inspect the original SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg).
+These images are local renders of editable SVG artwork, not Figma screenshots. [Follow the brief, decisions, pixel checks, and next steps](examples/self-branding/README.md), or [inspect the original SVG comparison board](examples/self-branding/01-exploration/contact-sheet.svg). The example now also includes [three color studies and a browser screenshot of their comparison](examples/self-branding/03-color/README.md).
 
 ## Files
 

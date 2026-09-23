@@ -6,9 +6,20 @@
 - **Mode:** build the identity around the approved mark. Preserve the overlapping frames and central square.
 - **Approved geometry:** refined primary in `02-refinement/b-primary.svg`.
 - **Supporting variant:** the dedicated 16 px optical version is tested; its usage rule remains part of the proposed handoff.
-- **Open choices:** color, typography, and name lockup. Do not reopen the approved primary geometry without a relevant request or demonstrated reproduction problem.
+- **Open choices:** select among the Round 3 palettes and review the proposed Arial name lockup. Do not reopen the approved primary geometry without a relevant request or demonstrated reproduction problem.
 - **Documentation requirement:** save images of each meaningful stage for the final README and a possible blog post. Preserve prior rounds and distinguish actual screenshots from local renders; see `process-captures.md`.
-- **Next step:** explore color and the name lockup, then inspect real applications and complete the handoff.
+- **Next step:** collect the palette/lockup choice, then inspect real applications and complete the handoff.
+
+## 2026-09-23 — Color and lockup comparison
+
+- **User request:** continue after approving the refined primary.
+- **Preserved:** all approved primary mark paths; identical geometry, scale, and name lockup across the comparison.
+- **Proposals:** A / Vermilion & paper; B / Cobalt & chalk; C / Pine & mist. Arial Bold and Regular for the two-line name lockup, verified as locally available.
+- **Agent recommendation:** A for its warmer character. No color or typography selection has been made by the user.
+- **Artifacts:** `03-color/color-studies.svg` and `.png`; six editable light/dark lockup studies; `palettes.json`; browser review page and `browser-color-studies.jpg`.
+- **Capture:** actual browser screenshot of the locally rendered study page, saved for the README and possible blog post. It is not a Figma or live GitHub screenshot.
+- **Checks:** visual inspection in local render and browser; approved geometry comparison; SVG parsing; local links; measured named color-pair contrast. Live-text font fallback remains a portability limitation until final outlined artwork is prepared.
+- **Next decision:** palette and name lockup feedback.
 
 ## 2026-09-23 — Refined mark approved; process documentation requested
 
