@@ -2,7 +2,7 @@
 
 An independent agent skill maintained by [kerbelp](https://github.com/kerbelp) for developing and refining logos and brand identities through exploration, feedback, and practical reproduction tests.
 
-The workflow moves from a concise brief to concept exploration, selection, vector refinement, typography and color, then checks at actual icon sizes and on real applications. It asks for visible artifacts and preserves approved choices as the design evolves.
+The workflow adapts to exploration, refinement, or production work. It compares concepts fairly, distinguishes concept previews from editable artwork, and checks exported assets at their intended sizes and uses. Approved choices stay intact as the design evolves, with a short decision log for longer projects.
 
 ## Use it
 
@@ -19,6 +19,12 @@ Start with a brief, for example:
 > Use iterative-logo-brand-design to explore a logo for a neighborhood bicycle repair shop called Second Spin. It should feel friendly, practical, and durable. Explore three distinct directions, then help me choose one before refining it. It needs to work on a storefront, a social avatar, and a one-color repair tag.
 
 For an existing identity, attach the current assets and explain what to preserve. The workflow calls for visual previews, editable SVG assets where appropriate, and size and color checks; the tools available to your agent determine which artifacts it can produce.
+
+For a focused revision, try:
+
+> Refine the attached mark for use as a 16–32 px favicon. Preserve the outer silhouette and approved colors; simplify only the inner detail. Show the before and after at actual sizes, deliver an editable SVG, and report which exports you inspected and any remaining limitations.
+
+The skill keeps work proportional to the request: exploration can stop at rough concepts, a small edit stays focused, and a production handoff records completed checks and unresolved issues.
 
 ## Files
 
